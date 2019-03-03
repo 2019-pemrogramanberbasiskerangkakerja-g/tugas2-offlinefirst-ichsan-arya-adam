@@ -1,0 +1,27 @@
+{
+  "name": "node-Redis",
+  "version": "1.0.0",
+  "description": "node-Redis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamalfian/node-Redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamalfian/node-Redis/issues"
+  },
+  "homepage": "https://github.com/adamalfian/node-Redis#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "method-override": "^3.0.0",
+    "redis": "^2.8.0"
+  }
+}
